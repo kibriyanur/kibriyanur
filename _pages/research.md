@@ -1,3 +1,7 @@
+---
+permalink: /research/
+title: "Research Experience"
+---
 1 - Undergraduate Research Program (URP), KAIST 2024 Summer/Fall
 
 Project Title: **Fabrication of Chiral Nanowires by Using Protein Nanotubes**
