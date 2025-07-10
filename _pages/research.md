@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research Experience"
 ---
-<span style="font-size: 14px;">This text is smaller.</span>
+<span style="font-size: 15px;">
 1 - Undergraduate Research Program (URP), KAIST 2024 Summer/Fall
 
 Project Title: **Fabrication of Chiral Nanowires by Using Protein Nanotubes**
@@ -25,4 +25,4 @@ Links:
 🔗 Research Notebook
 <iframe src="https://drive.google.com/file/d/1D9OkieXNns66GTgQYglHUznykC7ponw5/preview" width="640" height="480" allow="autoplay"></iframe>
 🔗 URP Final Presentation Slide Deck
-<iframe src="https://drive.google.com/file/d/1A5X5tzHHquRywi4H3duoFbkycZYOjU6r/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1A5X5tzHHquRywi4H3duoFbkycZYOjU6r/preview" width="640" height="480" allow="autoplay"></iframe> .</span>
