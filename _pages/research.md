@@ -8,15 +8,14 @@ title: "Research Experience"
 Project Title: **Fabrication of Chiral Nanowires by Using Protein Nanotubes**
 Award: **3rd Prize (Encouragement Award)** among all **2024 Summer/Fall & Long-Term URP** submissions
 
-<span style="font-size: 15px;">- Selected to receive a competitive KAIST Undergraduate Research Program (URP) grant to conduct independent research on fabricating chiral nanowires using protein nanotube scaffolds.</span>
-<span style="font-size: 15px;">- Conducted extensive literature review, designed the experimental pipeline, and performed all laboratory experiments.</span>
-<span style="font-size: 15px;">- Gained hands-on experience with advanced instrumentation, including Cryo-Electron Microscopy (Cryo-EM) and Transmission Electron Microscopy (TEM); obtained licensing and operational training.</span>
-<span style="font-size: 15px;">- Refined wet lab skills and applied quantitative analysis to validate structural and morphological outcomes. </span>
-<span style="font-size: 15px;">- Submitted a final written report and compiled a detailed research notebook, followed by an oral presentation and poster showcase at the Bio and Brain Engineering Open Lab Night 2025 in Daejeon, South Korea.</span>
+<span style="font-size: 16px;">- Selected to receive a competitive KAIST Undergraduate Research Program (URP) grant to conduct independent research on fabricating chiral nanowires using protein nanotube scaffolds.</span>
+<span style="font-size: 16px;">- Conducted extensive literature review, designed the experimental pipeline, and performed all laboratory experiments.</span>
+<span style="font-size: 16px;">- Gained hands-on experience with advanced instrumentation, including Cryo-Electron Microscopy (Cryo-EM) and Transmission Electron Microscopy (TEM); obtained licensing and operational training.</span>
+<span style="font-size: 16px;">- Refined wet lab skills and applied quantitative analysis to validate structural and morphological outcomes. </span>
+<span style="font-size: 16px;">- Submitted a final written report and compiled a detailed research notebook, followed by an oral presentation and poster showcase at the Bio and Brain Engineering Open Lab Night 2025 in Daejeon, South Korea.</span>
 
-After the official report submission, I continued refining the project, obtained further results, and presented these updated findings during the URP Final Presentation Session.
-
-This research explored tubulin-based protein scaffolds as templates for constructing chiral nanostructures—structures with promising applications in nanoscale electronics and photonic systems.
+<span style="font-size: 16px;">After the official report submission, I continued refining the project, obtained further results, and presented these updated findings during the URP Final Presentation Session.</span>
+<span style="font-size: 16px;">This research explored tubulin-based protein scaffolds as templates for constructing chiral nanostructures—structures with promising applications in nanoscale electronics and photonic systems.</span>
 
 
 🔗 Poster Presentation 
