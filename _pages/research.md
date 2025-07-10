@@ -5,8 +5,8 @@ title: "Research Experience"
 
 1 - Undergraduate Research Program (URP), KAIST 2024 Summer/Fall
 
-Project Title: **Fabrication of Chiral Nanowires by Using Protein Nanotubes**
-Award: **3rd Prize (Encouragement Award)** among all **2024 Summer/Fall & Long-Term URP** submissions
+<span style="font-size: 18px;">Project Title: **Fabrication of Chiral Nanowires by Using Protein Nanotubes**
+Award: **3rd Prize (Encouragement Award)** among all **2024 Summer/Fall & Long-Term URP** submissions</span>
 
 <span style="font-size: 16px;">- Selected to receive a competitive KAIST Undergraduate Research Program (URP) grant to conduct independent research on fabricating chiral nanowires using protein nanotube scaffolds.</span>
 <span style="font-size: 16px;">- Conducted extensive literature review, designed the experimental pipeline, and performed all laboratory experiments.</span>
