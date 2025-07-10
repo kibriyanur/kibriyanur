@@ -2,8 +2,8 @@ main:
   - title: "Resume"
     url: /resume/
   - title: "Research Experience"
-    url: /projects/
+    url: /research/
   - title: "Course Projects"
-    url: /outreach/
+    url: /course/
   - title: "Outreach"
     url: /outreach/
